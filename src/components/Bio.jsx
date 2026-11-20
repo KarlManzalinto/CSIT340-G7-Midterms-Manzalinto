@@ -9,3 +9,5 @@ function Bio() {
           </header>
     );
 }
+
+export default Bio;
